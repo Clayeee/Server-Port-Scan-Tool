@@ -23,8 +23,9 @@ Date      : 18/12/24
 
   1. 将端口扫描工具下载至本地，解压缩
   2. 下载 [node.js](http://nodejs.cn/download/) 环境
-  3. 终端切换至工具所在文件夹，执行`node server.js`
-  4. 浏览器访问 http://localhost:8080
+  3. 安装服务器依赖，执行`npm install express`
+  4. 终端切换至工具所在文件夹，执行`node server.js`
+  5. 浏览器访问 http://localhost:8080
 
 ### 源码结构
 
